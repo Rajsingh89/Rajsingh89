@@ -11,7 +11,7 @@
 
 ---
 
-### 👋 Hi, I'm **Raj Singh** (`rajsingh‑19`)
+### 👋 Hi, I'm **Raj Singh** (`rajsingh89`)
 
 **Full Stack MERN Developer** passionate about building scalable web applications using JavaScript, TypeScript, Node.js, React, and Express.js. I enjoy crafting RESTful APIs and building responsive interfaces from scratch.  
 
@@ -23,9 +23,9 @@
 
 ### 🔗 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn‑Raj%20Singh-blue?logo=linkedin)](https://www.linkedin.com/in/raj-singh19)  
+[![LinkedIn](https://www.linkedin.com/in/priyanshu-singh-khamosh/)  
 [![Twitter](https://img.shields.io/badge/Twitter-@Raj_singh_19-blue?logo=twitter)](https://twitter.com/Raj_singh_19)  
-🌐 Portfolio: [singhrajportfolio.netlify.app](https://singhrajportfolio.netlify.app/)
+<!--🌐 Portfolio: [singhrajportfolio.netlify.app](https://singhrajportfolio.netlify.app/) -->
 
 ---
 
