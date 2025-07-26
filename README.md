@@ -1,3 +1,6 @@
+![header](https://user-images.githubusercontent.com/73928744/182041587-527d010a-80d3-4b57-bd99-c2be13c1a516.png)
+
+
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:00CED1,100:00FFFF&height=270&section=header&text=Raj%20Singh&fontSize=70&fontAlignY=35&desc=Full%20Stack%20MERN%20Developer&descAlignY=60&descSize=20&animation=fadeIn&fontColor=ffffff)
 
 <p align="center">
