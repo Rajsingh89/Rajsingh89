@@ -43,6 +43,15 @@
 
 ---
 
+<!-- Snake Game Repo View -->
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+<br/>
+
+
+
 ### 📌 Featured Projects
 
 - **Quiz Hub** – A fun quiz platform with authentication and leaderboards. Built with TypeScript. :contentReference[oaicite:10]{index=10}  
