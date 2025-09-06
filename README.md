@@ -7,8 +7,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=00CED1&center=true&vCenter=true&width=435&lines=Welcome+to+my+Github+Profile!;I+Build+in+MERN+Stack" alt="Typing SVG" />
 </p>
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/JltOMwYmi0VrO/giphy.gif" />
-
 ---
 
 ### 👋 Hi, I'm **Raj Singh** (`rajsingh89`)
