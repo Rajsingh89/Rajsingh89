@@ -24,7 +24,6 @@
 ### 🔗 Connect with Me
 
 [![LinkedIn](https://www.linkedin.com/in/priyanshu-singh-khamosh/)  
-[![Twitter](https://img.shields.io/badge/Twitter-@Raj_singh_19-blue?logo=twitter)](https://twitter.com/Raj_singh_19)  
 <!--🌐 Portfolio: [singhrajportfolio.netlify.app](https://singhrajportfolio.netlify.app/) -->
 
 ---
