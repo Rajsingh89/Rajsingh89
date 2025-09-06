@@ -63,9 +63,9 @@
 ### ✨ GitHub Stats & Metrics
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsingh-19&theme=nightowl" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsingh-19&theme=nightowl" alt="GitHub Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsingh-19&theme=nightowl" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajsingh899&theme=nightowl" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajsingh89&theme=nightowl" alt="GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajsingh89&theme=nightowl" alt="Top Languages" />
 </p>
 
 ---
